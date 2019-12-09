@@ -16,5 +16,8 @@ public class Student {
 		System.out.println("Student Id is 16");
 
 	}
-
+public void studentMark() {
+	// TODO Auto-generated method stub
+	System.out.println("student mark is 398");
+}
 }
